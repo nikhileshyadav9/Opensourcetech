@@ -8,3 +8,7 @@ Open Software chosen: Projectsend
 Introduction: 
              ProjectSend is self-hosted, which means you're responsible for securing the server it runs on. That also gives you control over whatever's uploaded to the application. ProjectSend's core features include the ability to share files with individuals or groups and the ability for those individuals or groups to upload files to a folder assigned to only them.
 
+
+This is used to share files and add clients and manage clients at a single place.
+
+Done.
